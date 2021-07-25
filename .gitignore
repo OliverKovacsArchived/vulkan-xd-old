@@ -1,0 +1,6 @@
+.vs
+.idea
+.ignore
+
+build
+extern/build
